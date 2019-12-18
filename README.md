@@ -1,5 +1,5 @@
 # iOSCodeStructure
-iOS Code architecture
+iOS Code architecture MVVM-C 
 
 ![Alt text](screen.png)
 
